@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:learn_flutter/tasks/task2.dart';
+import 'package:learn_flutter/tasks/crypto_task.dart';
 
 void main() {
-  runApp(Task2());
+  runApp(CryptoTask());
 }
